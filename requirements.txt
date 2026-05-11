@@ -1,4 +1,0 @@
-pip install pyTelegramBotAPI
-pip install instaloader
-pip install yt-dlp
-pip install requests
