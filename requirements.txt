@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+instaloader
+yt-dlp
+requests
